@@ -1,0 +1,17 @@
+DESCRIPTION
+
+A very simple and small utility that displays various tidbits of information about the device. Can be useful for
+developers to quickly determine device metrics or for people who are just curious about the type of device they
+have. Information displayed:
+ Screen resolution
+ Density of device (actual and what the device thinks it is)
+ Mobile country / network codes
+ Device model / brand / manufacturer / CPU type
+ Locale
+ SDK Version
+
+If you have any other suggestions please contact us at support@synaptik.com.
+
+BRIEF
+
+A very simple and small utility that displays various tidbits of information about the device.
